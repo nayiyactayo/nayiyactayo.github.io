@@ -4,7 +4,7 @@ var canvas;
 var altoCamara = 720;
 var anchoCamara = 720;
 
-var amarillo = { r: 0, g: 0, b: 255 };
+var amarillo = { r: 255, g: 255, b: 0 };
 
 var distanciaAceptableColor = 190;
 
